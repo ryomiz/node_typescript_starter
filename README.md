@@ -1,1 +1,6 @@
-get_programming_with_nodejs
+# Node.js TypeScript Starter
+
+- Node.js
+- TypeScript
+- Eslint
+- Prettier
